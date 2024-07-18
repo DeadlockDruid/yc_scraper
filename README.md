@@ -23,8 +23,8 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-link.git
-cd your-repository-directory
+git clone https://github.com/anshu1992/yc_scraper.git
+cd yc_scraper
 ```
 
 Install the required gems:
