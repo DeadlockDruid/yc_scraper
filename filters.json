@@ -1,0 +1,9 @@
+{
+  "number_of_companies": 120,
+  "filters": {
+    "industry": ["Healthcare", "Fintech", "Consumer", "Industrials"],
+    "region": ["America / Canada"],
+    "company_size": "1-10",
+    "is_hiring": true
+  }
+}
